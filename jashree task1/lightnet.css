@@ -1,0 +1,22 @@
+table,th,td{
+    border:1px soild black;
+    border-collapse:collapse;
+    padding: 20px;
+    margin-left:5;
+}
+caption{
+    font-size: 100%;
+    background-color: violet;
+    padding: 20px;
+}
+th{
+    background-color: lightslategray;
+}
+.myDiv{
+    font-size: 100%;
+    color:navy;
+    margin-left: 5px;
+}
+a{
+    
+}
